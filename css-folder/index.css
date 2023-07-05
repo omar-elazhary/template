@@ -42,6 +42,21 @@ html{
       left: 0 !important;
    } */
 }
+@media (max-width:413px) {
+   .landing .intro-text {
+      font-size: 15px ;
+   }
+   .contact .link{
+      font-size: 20px !important;
+      font-weight: 800;
+   }
+      .container {
+      width: calc(414px - 20px);
+   }
+   .special-heading {
+      font-size: 50px !important;
+   }
+}
 @media (min-width: 768px) {
    .container {
       width: 750px
