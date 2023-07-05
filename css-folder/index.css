@@ -51,10 +51,10 @@ html{
       font-weight: 800;
    }
       .container {
-      width: calc(400px - 30px);
+      width: calc(400px - 40px);
    }
    .special-heading {
-      font-size: 30px !important;
+      font-size: 40px !important;
    }
 }
 @media (min-width: 768px) {
