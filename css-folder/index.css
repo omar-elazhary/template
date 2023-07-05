@@ -42,7 +42,7 @@ html{
       left: 0 !important;
    } */
 }
-@media (max-width:413px) {
+@media (max-width: 413px) {
    .landing .intro-text {
       font-size: 15px ;
    }
@@ -54,7 +54,7 @@ html{
       width: calc(400px - 30px);
    }
    .special-heading {
-      font-size: 50px !important;
+      font-size: 30px !important;
    }
 }
 @media (min-width: 768px) {
